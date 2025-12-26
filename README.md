@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Olá, eu sou o AnãoMenos! 👋<br><br>### Backend Developer | Code Security & Obfuscation Enthusiast<br><br>Sou um desenvolvedor focado em soluções de backend e especializado na proteção de software. Atualmente, dedico boa parte do meu tempo explorando as camadas de segurança de linguagens de script e desenvolvendo ferramentas para integridade de código.
+Olá, eu sou o `AnãoMenos`! 👋<br><br>**Sou um desenvolvedor focado em soluções de backend e especializado na proteção de software. Atualmente, dedico boa parte do meu tempo explorando as camadas de segurança de linguagens de script e desenvolvendo ferramentas para integridade de código.**
 
 
 ## 🌐 Socials:
